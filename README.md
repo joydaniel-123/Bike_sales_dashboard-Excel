@@ -6,7 +6,7 @@ This project showcases a Bike Sales Dashboard built using Excel for data cleanin
 ## Table of Contents:
 
 - [Problem Statement](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/main/README.md#problem-statement-)
-- [Datasource](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/main/README.md#datasource-)
+- [Data source](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/main/README.md#data-source-)
 - [Data Preparation](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/main/README.md#data-preparation)
 - [Data Analysis](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/main/README.md#data-analysis-)
 - [Data Visualization (Dashboard)](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/main/README.md#data-visualization-dashboard)
@@ -23,7 +23,7 @@ The purpose of this task is to:
 - Analyze customer purchase patterns based on services such as commute distance, age bracket, gender, occupation, and region.                                               - Provide customer demographic and purchase information: average income, marital status, education level, occupation, region, and purchase history.
 - Include demographic insights about customers: gender, age bracket, and regional distribution to target marketing efforts effectively.
 
-## Datasource :
+## Data source :
 
 Dataset used for this task was [Bike sales dataset](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/7f7fa81b20af8ab224fff78705947e0cdb81478d/Bike%20sales%20dashboard.xlsx)
 

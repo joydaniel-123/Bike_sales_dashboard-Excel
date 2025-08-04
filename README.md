@@ -60,7 +60,7 @@ Shows visualizations from Bike_sales analysis:
 
 | Bike sales dashboard |
 | ----------- |
-|![Bike sales ](https://user-images.githubusercontent.com/118357991/229330706-03af1d41-a7e3-4449-8867-55322ecdf371.jpg)|
+|![Bike sales ](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/main/Asset/screnshoot%20dash.PNG?raw=true)|
 
 
 ## Insights:

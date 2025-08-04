@@ -1,7 +1,7 @@
 # Bike_sales_dashboard-Excel
 This project showcases a Bike Sales Dashboard built using SQL for data cleaning and transformation, and Power BI for data visualization.
 
-![Bike_Sales - Excel](https://user-images.githubusercontent.com/118357991/227788348-b988c4df-7923-46d6-8af7-102b8042f721.png)
+![Bike_Sales - Excel](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/main/Asset/WhatsApp%20Image%20bike.jpg?raw=true)
 
 ## Table of Contents:
 

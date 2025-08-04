@@ -54,7 +54,7 @@ functions used in data analysis are:
 
 Data visualization for the data analysis  was done in Microsoft Excel:
 
-Dashboard: [View Dashboard](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/08b6a3ad52eb521b2a6d7bd780fec82258bd3d02/Bike%20sales%20dashboard.xlsx)
+Dashboard: [Download Dashboard](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/08b6a3ad52eb521b2a6d7bd780fec82258bd3d02/Bike%20sales%20dashboard.xlsx)
 
 Shows visualizations from Bike_sales analysis:
 

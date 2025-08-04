@@ -54,21 +54,14 @@ functions used in data analysis are:
 
 Data visualization for the data analysis  was done in Microsoft Excel:
 
-Dashboard: [View Dashboard](https://www.novypro.com/project/yogeshkasar97-1)
+Dashboard: [View Dashboard](https://github.com/joydaniel-123/Bike_sales_dashboard-Excel/blob/08b6a3ad52eb521b2a6d7bd780fec82258bd3d02/Bike%20sales%20dashboard.xlsx)
 
-Shows visualizations from Customer Retention analysis:
+Shows visualizations from Bike_sales analysis:
 
-| Customer Churn |
+| Bike sales dashboard |
 | ----------- |
-|![PWC Task 2-Customer Churn Retenstion_page-0002](https://user-images.githubusercontent.com/118357991/229330706-03af1d41-a7e3-4449-8867-55322ecdf371.jpg)|
+|![Bike sales ](https://user-images.githubusercontent.com/118357991/229330706-03af1d41-a7e3-4449-8867-55322ecdf371.jpg)|
 
-| Customer Risk |
-| ----------- |
-|![PWC Task 2-Customer Churn Retenstion_page-0003](https://user-images.githubusercontent.com/118357991/229330924-5b82f4ab-8326-41f0-b001-e56eb264d3ba.jpg)|
-
-| Services |
-| ----------- |
-|![PWC Task 2-Customer Churn Retenstion_page-0004](https://user-images.githubusercontent.com/118357991/229330958-68b013f5-d013-4de6-a4f7-6a2500823de0.jpg)|
 
 ## Insights:
 

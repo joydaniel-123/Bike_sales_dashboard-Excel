@@ -20,7 +20,8 @@ The purpose of this task is to:
 - Create a dashboard for the sales manager reflecting the KPIs, findings, and include suggestions on what needs to be changed to improve bike sales.
 - Write a short report to the sales team explaining the findings and include recommendations on what needs to be adjusted to boost sales.
 - Identify customers who have not purchased bikes based on income, marital status, and education levels.
-- Analyze customer purchase patterns based on services such as commute distance, age bracket, gender, occupation, and region.                                               - Provide customer demographic and purchase information: average income, marital status, education level, occupation, region, and purchase history.
+- Analyze customer purchase patterns based on services such as commute distance, age bracket, gender, occupation, and region.
+- Provide customer demographic and purchase information: average income, marital status, education level, occupation, region, and purchase history.
 - Include demographic insights about customers: gender, age bracket, and regional distribution to target marketing efforts effectively.
 
 ## Data source :
